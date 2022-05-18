@@ -1,0 +1,108 @@
+body{
+  background-color: aliceblue;
+  border-image-repeat: no;
+}
+header{
+    background-color: rgba(28, 211, 211, 0.925);
+    padding: 80px;
+    margin-top: -30px;
+}
+
+h1{
+    background-color:blanchedalmond;
+    color: black;
+    box-shadow: 10px 0 30px red;
+    border-radius: 300%;
+    margin-left: 500px;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+    font-style: inherit;
+}
+nav{
+    background-image: url("https://cdn.pixabay.com/photo/2021/08/13/21/14/kiteboarding-6543982_960_720.jpg");
+    padding: 30px;
+    position: sticky;
+}
+a{
+    font-size: larger;
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+ 
+}
+img{
+padding: 10px;
+
+}
+.par1{
+    
+    cursor: pointer;
+    background-color: rosybrown;
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large ;
+}
+.par1:hover{
+    color:bisque
+}
+.par2{
+    cursor: pointer;
+    background-color: rosybrown;
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: -740px;
+    margin-left: 450px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large ;
+
+}
+.par2:hover{
+    color: azure;
+}
+.par3{
+    cursor: pointer;
+    background-color: rosybrown;
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: -740px;
+    margin-left: 900px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large;
+}
+.par3:hover{
+        color: burlywood;
+}
+.btn{
+background-color: lavender;
+padding: 20px;
+width: 90%;
+}
+.btn:hover{
+    background-color: aqua;
+}
+h3{
+    background-color: tomato;
+}
+footer{
+    background-color: lightblue;
+
+}
+div{
+    text-align: center;
+    color: papayawhip;
+}

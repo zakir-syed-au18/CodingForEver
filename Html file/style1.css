@@ -1,0 +1,61 @@
+body{
+   
+    background-color: gray;
+    padding: 12rem 0 0 27rem;
+
+}
+.ko{
+    width: 30VW;
+  background-color: rgb(2, 74, 77);
+  padding: 2rem 2rem;
+  border-radius: 10%;
+
+}
+h3{
+text-align: center;
+background-color: aqua;
+
+
+}
+.btn{
+ background-color:lightcoral;
+
+ padding: 20px;
+ width: 150px;
+border-radius: 10px;
+
+}
+
+.btn1{
+    background-color: aqua;
+    
+  
+    padding: 20px;
+    width: 150px;
+    border-radius: 10px;
+   
+   }
+   .btn3{
+       background-color: cadetblue;
+       width: 100%;
+       padding: 10px;
+       border-radius: 10px;
+   }
+   .btn3:hover{
+  background-color: azure;
+  
+   }
+   .btn1:hover{
+       background-color:silver;
+
+   }
+   .btn:hover{
+       background-color: yellow ;
+
+   }
+   #txt{
+    width: 50%;
+    border-radius: 20%;
+
+
+   }

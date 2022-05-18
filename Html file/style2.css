@@ -1,0 +1,103 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+ 
+     background-color: hotpink;
+     padding: 5rem;
+     margin-top: -20px;
+     width: 100%;
+     font-size: large;
+     font-style: oblique;
+     
+}
+h3{
+   background-color: white;
+    color: black;
+  font-style: italic;
+
+}
+.par1{
+    
+    cursor: pointer;
+   
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large ;
+}
+.par1:hover{
+    color:bisque
+}
+.par2{
+    cursor: pointer;
+   
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: -490px;
+    margin-left: 450px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large ;
+
+}
+.par2:hover{
+    color: azure;
+}
+.par3{
+    cursor: pointer;
+   
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-top: -480px;
+    margin-left: 900px;
+    width: 200px;
+    text-align: justify;
+    padding: 50px;
+    font-family: cursive;
+    font-size: large;
+}
+.par3:hover{
+        color: burlywood;
+}
+nav{
+   background-color: beige;
+    padding: 20px;
+    position: sticky;
+    top: 1;
+}
+a{
+    font-size: 17px;
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+ 
+}
+a:hover{
+    color: indianred;
+}
+footer{
+    background-color: peru;
+
+}
+div{
+    text-align: center;
+    color: lightblue;
+}
+#btn{
+    padding: 10px;
+    background-color: aqua;
+}
+#inu{
+  border-radius: 10px;
+  margin-left: 200px;
+}

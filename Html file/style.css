@@ -1,0 +1,63 @@
+body{
+    background-color: cyan;
+}
+h1{
+    background-color:blanchedalmond;
+    color: black;
+    box-shadow: 10px 0 30px red;
+    border-radius: 50%;
+    margin-left: 500px;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+h1:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+}
+p{
+    cursor: pointer;
+    background-color: rosybrown;
+    color: brown;
+    box-shadow: 10px 0 30px gray;
+    border-radius: 10px;
+    margin-left: 360px;
+    margin-top: -100px;
+    width: 500px;
+    text-align: justify;
+    padding: 15px;
+    font-family: cursive;
+    font-size: large ;
+}
+
+.im{
+    border-radius: 100%;
+  
+   width: 100px;
+   height: 100px;
+    
+}
+nav{
+    background-color: whitesmoke;
+    padding: 20px;
+    position: sticky;
+    top: 1;
+}
+a{
+    font-size: larger;
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+ 
+}
+a:hover{
+    color: blue;
+}
+footer{
+    background-color: peru;
+
+}
+div{
+    text-align: center;
+    color: lightblue;
+}
